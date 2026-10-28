@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Maria Eduarda! 👋
 
-<!--
-**megrocholski/megrocholski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Software Engineer specializing in building scalable web applications, modern technical architecture, and system integrations.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend:** Next.js (App Router), React.js, TypeScript, Tailwind CSS, JavaScript.
+- **Backend & Databases:** Supabase, PostgreSQL, Node.js, Relational Data Modeling, REST APIs.
+- **Tools & Automations:** Meta WhatsApp Cloud API & Webhooks, Git/GitHub, Vercel, Generative AI Developer Tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 Current Focus
+- Currently pursuing a Postgraduate Specialization in **Cybersecurity** at Pontifícia Universidade Católica do Paraná (PUCPR) to apply advanced data protection and secure engineering practices to web ecosystems.
+
+## 🚀 Engineering Note
+My daily contributions and system deliverables are fully dedicated to private enterprise repositories using a separate corporate account. Public repositories mostly reflect my academic baseline and past engineering milestones. 
